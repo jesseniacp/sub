@@ -220,5 +220,7 @@ fig=plt.figure()
     plt.title("HUMEDAD RELATIVA ENERO/2020")
     plt.show()
  ```
+ - Imagen 
  
-
+ ![Humedad Relativa en enero 2020](https://github.com/jesseniacp/sub/blob/main/humedad2jupyter.jpeg) 
+ ```
