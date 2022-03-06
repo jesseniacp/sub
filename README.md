@@ -1,8 +1,8 @@
 
-# Codigos netCDF para la Humedad Relativa 
-*ALUMNOS* |  *CÓDIGO* | 
-----------------------| ----------------------|
-CASAS POMACAJA JESSENIA | 20180169
+# Visualizacion de archivos  netCDF - Humedad Relativa 
+*ALUMNOS* |  
+----------------------| 
+CASAS POMACAJA JESSENIA | 
 IIlan Prada Catheling Palmira |
 Perez Rojas Naason |
 Sangama López Sofia Samantha |
