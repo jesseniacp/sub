@@ -136,7 +136,7 @@ current shape = (3288, 73, 144)
 filling on, default _FillValue of 9.969209968386869e+36 used
 ```
 
-- Definimos las variables que vamos a trabajaar air(time, lat, lon)
+- Definimos las variables que vamos a trabajaar rhum(time, lat, lon)
 ```
 rhum = ncFile.variables["rhum"][:]
 lon = ncFile.variables["lon"][:]
